@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fff;
+}
+#wrapper{
+    width:980px;
+    background-color: #005ba5;
+    text-align:center;
+
+}
+.h2{
+    color: #fff;
+    padding: 10px;
+    font-family:'Courier New', Courier, monospace;
+    border: 2px solid #000;
+    border-radius: 30px;
+}
